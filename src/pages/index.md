@@ -3,7 +3,7 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: 'Ramsey - '
+  title: Ramsey
   description: >-
     Unbiased Cloud Architect. Curating beautiful moments in Blockchain & Big
     Data.
