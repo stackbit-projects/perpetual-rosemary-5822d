@@ -13,7 +13,9 @@ seo:
       value: Ramsey
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: >-
+        Unbiased Cloud Architect. Curating beautiful notes in Blockchain & Big
+        Data.
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
