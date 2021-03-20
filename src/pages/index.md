@@ -4,7 +4,9 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: 'Ramsey - '
-  description: A human. Being. Curating beautiful moments in Blockchain & Big Data.
+  description: >-
+    Unbiased Cloud Architect. Curating beautiful moments in Blockchain & Big
+    Data.
   extra:
     - name: 'og:type'
       value: website
