@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Ramsey - personal note
-  description: The preview of the Fjord theme
+  description: 'A human. Being. Curating beautiful moments in Blockchain & '
   extra:
     - name: 'og:type'
       value: website
